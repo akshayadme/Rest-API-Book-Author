@@ -9,7 +9,4 @@ public class BookAuthorsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookAuthorsApplication.class, args);
 	}
-
-	System.out.println("Running");
-
 }
